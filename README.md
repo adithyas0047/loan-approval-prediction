@@ -26,4 +26,3 @@ It demonstrates the use of **Python, Pandas, Scikit-learn, and Machine Learning 
    ```bash
    git clone https://github.com/<your-username>/loan-approval-prediction.git
    cd loan-approval-prediction
-  ```
