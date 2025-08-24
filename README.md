@@ -15,9 +15,8 @@ It demonstrates the use of **Python, Pandas, Scikit-learn, and Machine Learning 
 ---
 
 ## 📂 Files in the Repository
-- `Loan_Approval_Prediction.ipynb` → Jupyter Notebook containing code, analysis, and results  
-- `requirements.txt` → Python dependencies required to run the notebook  
-- `dataset.csv` (optional, if uploaded) → Dataset used for model training/testing  
+- `Loan_Approval_Prediction.ipynb` → Jupyter Notebook containing code, analysis, and results    
+- `dataset.csv` → Dataset used for model training/testing  
 
 ---
 
