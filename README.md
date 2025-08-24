@@ -24,5 +24,5 @@ It demonstrates the use of **Python, Pandas, Scikit-learn, and Machine Learning 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/loan-approval-prediction.git
+   git clone https://github.com/adithyas0047/loan-approval-prediction.git
    cd loan-approval-prediction
